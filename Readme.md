@@ -8,7 +8,6 @@ I buidl code.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nhariharasudhan7@gmail.com](mailto:nhariharasudhan7@gmail.com)
-* 🧠  I'm learning to be a better engineer
 * ⚡  Got any interesting opportunities for me? Don't hesitate to hit me up. Always primed and ready.
 
 ### Skills
