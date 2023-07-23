@@ -1,15 +1,16 @@
 Yahallo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HARIHARA SUDHAN 
 ============================================================================================================================================
 
-An engineer and a builder
--------------------------
+An avid builder
+---------------
 
-I buidl code.
+I buidl 👷🏼 code.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nhariharasudhan7@gmail.com](mailto:nhariharasudhan7@gmail.com)
 * 💬 Want a quick chat with me? Message me on discord.
 * ⚡  Got any interesting opportunities for me? Don't hesitate to hit me up. Always primed and ready.
+* 🕵🏼  Would love to learn more. This is not my final form. 
 
 ### Skills
 
